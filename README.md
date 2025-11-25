@@ -6,6 +6,9 @@ A image conversion tool that processes photos for e-ink displays with enhanced v
 - Photo Painter (B) product information: https://www.waveshare.com/wiki/PhotoPainter_%28B%29
 - Enhanced firmware repository: https://github.com/myevit/PhotoPainter_B/blob/master/README.md
 
+## Note
+Afrer you have converted the images, make sure you copy on your memory card both folder 'pic' and file 'fileList.txt' to the root of the card. Assuming you are using the PhotoPainter (B)
+
 ## Features
 
 - Convert images to optimized formats for e-ink displays
